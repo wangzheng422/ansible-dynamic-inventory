@@ -1,0 +1,3 @@
+plugin: ansible.builtin.generator
+hosts:
+  name: my_test_host
